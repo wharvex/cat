@@ -1,0 +1,16 @@
+li span {
+  position: relative;
+  left: 10px;
+}
+
+ul {
+  text-align: center;
+  padding-right: 60px;
+}
+
+#outer {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  padding-bottom: 12px;
+}
